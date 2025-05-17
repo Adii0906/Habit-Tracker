@@ -1,6 +1,7 @@
 # Daily Habit Tracker
 
-![Habit Tracker Screenshot](screenshot.png)
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/cd865d90-cd3d-42fe-87a7-34c6efc690ad" />
+
 
 A beautiful, interactive daily habit tracker with progress visualization, streak tracking, and dark/light mode support. Built with **HTML**, **CSS**, **JavaScript**, and **Anime.js** for smooth animations.
 
