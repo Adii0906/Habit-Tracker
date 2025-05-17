@@ -2,6 +2,9 @@
 
 <img width="344" alt="image" src="https://github.com/user-attachments/assets/cd865d90-cd3d-42fe-87a7-34c6efc690ad" />
 
+Live Demo Try it now:
+https://habit-tracker-coral-phi.vercel.app/
+
 
 A beautiful, interactive daily habit tracker with progress visualization, streak tracking, and dark/light mode support. Built with **HTML**, **CSS**, **JavaScript**, and **Anime.js** for smooth animations.
 
